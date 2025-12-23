@@ -25,11 +25,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task0.V17.Test", "Tyuiu.FlyagID.Sprint4.Task0.V17.Test\Tyuiu.FlyagID.Sprint4.Task0.V17.Test.csproj", "{B91D4E16-1816-4EDA-A71A-3469C65980D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V14", "Tyuiu.FlyagID.Sprint4.Task1.V14\Tyuiu.FlyagID.Sprint4.Task1.V14.csproj", "{1B9F330E-7128-4279-B6FB-857EEB4150C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V18", "Tyuiu.FlyagID.Sprint4.Task1.V18\Tyuiu.FlyagID.Sprint4.Task1.V18.csproj", "{1B9F330E-7128-4279-B6FB-857EEB4150C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V14.Lib", "Tyuiu.FlyagID.Sprint4.Task1.V14.Lib\Tyuiu.FlyagID.Sprint4.Task1.V14.Lib.csproj", "{10F4B763-816B-472D-A94F-CE674F7ECBC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V18.Lib", "Tyuiu.FlyagID.Sprint4.Task1.V18.Lib\Tyuiu.FlyagID.Sprint4.Task1.V18.Lib.csproj", "{10F4B763-816B-472D-A94F-CE674F7ECBC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V14.Test", "Tyuiu.FlyagID.Sprint4.Task1.V14.Test\Tyuiu.FlyagID.Sprint4.Task1.V14.Test.csproj", "{C544F667-692A-4E0A-AEDF-1DC91698AC8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task1.V18.Test", "Tyuiu.FlyagID.Sprint4.Task1.V18.Test\Tyuiu.FlyagID.Sprint4.Task1.V18.Test.csproj", "{C544F667-692A-4E0A-AEDF-1DC91698AC8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FlyagID.Sprint4.Task2.V7", "Tyuiu.FlyagID.Sprint4.Task2.V7\Tyuiu.FlyagID.Sprint4.Task2.V7.csproj", "{FB1A20E7-9BA7-4E03-8571-D5EE6EBE1D9B}"
 EndProject
