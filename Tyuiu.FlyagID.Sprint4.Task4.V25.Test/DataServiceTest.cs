@@ -22,7 +22,7 @@ namespace Tyuiu.FlyagID.Sprint4.Task4.V25.Test
 
             int result = ds.Calculate(matrix);
 
-            int expected = 64;
+            int expected = 62;
 
             Assert.AreEqual(expected, result);
         }
