@@ -1,11 +1,22 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
-namespace Tyuiu.FlyagID.Sprint4.Task1.V14.Lib
+
+namespace Tyuiu.FlyagID.Sprint4.Task1.V18.Lib
 {
-    public class DataService : ISprint4Task1V14
+    public class DataService : ISprint4Task1V18
     {
         public int Calculate(int[] array)
         {
-            throw new NotImplementedException();
+            int sum = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] % 2 != 0)
+                {
+                    sum += array[i];
+                }
+            }
+
+            return sum;
         }
     }
 }
